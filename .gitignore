@@ -1,0 +1,6 @@
+.env
+logs
+plugins
+webstreamlit
+scrapping.log
+.venv
