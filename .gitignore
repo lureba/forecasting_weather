@@ -4,3 +4,5 @@ plugins
 webstreamlit
 scrapping.log
 .venv
+logs
+dags/__pycache__
